@@ -15,5 +15,8 @@
     "reactjs",
     "refs",
     "combine"
-  ]
+  ],
+  "dependencies": {
+    "react": "^16.13.1"
+  }
 }
