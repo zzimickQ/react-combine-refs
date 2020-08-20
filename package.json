@@ -1,0 +1,19 @@
+{
+  "name": "react-combin-refs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Zemichael Tesfaye",
+    "email": "zzimickwork@gmail.com",
+    "url": "https://zzimickQ.github.io/"
+  },
+  "homepage": "",
+  "description": "",
+  "keywords": [
+    "react",
+    "reactjs",
+    "refs",
+    "combine"
+  ]
+}
