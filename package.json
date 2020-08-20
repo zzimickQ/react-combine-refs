@@ -9,7 +9,7 @@
     "url": "https://zzimickQ.github.io/"
   },
   "homepage": "",
-  "description": "",
+  "description": "helps react forward ref to combine and pass the ref even further.",
   "keywords": [
     "react",
     "reactjs",
